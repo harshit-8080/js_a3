@@ -1,0 +1,19 @@
+        2 phase
+--------------------------------
+1.  Memory  phase  - m m
+2.  execution phase - e m
+
+
+global scope   var
+functional scope  var
+block scope
+auto global 
+
+lexical scope -- when functional scope ask their parents for variable value.
+
+
+
+hoisting -> 
+
+done for 15 nov 2022.
+
