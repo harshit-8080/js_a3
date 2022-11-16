@@ -17,3 +17,8 @@ hoisting ->
 
 done for 15 nov 2022.
 
+
+16 Nove 2022
+1.      lexical scope
+2.      closures
+
