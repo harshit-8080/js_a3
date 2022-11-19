@@ -21,4 +21,16 @@ done for 15 nov 2022.
 16 Nove 2022
 1.      lexical scope
 2.      closures
+3.      closures completed.
+
+
+
+
+next class Me (ASYNC IN JS)
+
+1. callback
+2. callback hell
+3. promise
+4. promise hell
+5. async await
 
