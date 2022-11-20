@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/harshit-8080/js_a3/issues"
   },
-  "homepage": "https://github.com/harshit-8080/js_a3#readme"
+  "homepage": "https://github.com/harshit-8080/js_a3#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
 }
