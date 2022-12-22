@@ -15,4 +15,17 @@ Product.prototype.details = function(){
 }
 
 // console.log(p1);
-p1.details();
+// p1.details();
+
+
+if(Product.prototype.__proto__ == Object.prototype){
+
+    console.log("hello");
+}
+
+else{
+
+    console.log("bye");
+}
+
+console.log(Object.prototype.__proto__);
